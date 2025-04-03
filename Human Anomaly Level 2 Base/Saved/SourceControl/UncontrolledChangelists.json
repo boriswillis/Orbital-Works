@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/Level2Base.umap",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/Box_6C9833A4.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/Box_8AE91C43.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/Box_A46AB3CE.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/Box_DC91343E.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/CubeGridToolOutput_160D0AC5.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/CubeGridToolOutput_371D121D.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/CubeGridToolOutput_597419A9.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/CubeGridToolOutput_9A3C0E8F.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/CubeGridToolOutput_F04A90A9.uasset",
+				"C:/Users/pshabazz/Documents/Unreal Projects/TestBuild/Content/_GENERATED/pshabazz/Disc_569D7558.uasset"
+			]
+		}
+	]
+}
