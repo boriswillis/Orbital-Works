@@ -1365,6 +1365,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.16-20.59.19:324][238]Cmd: MAP CHECKDEP NOCLEARLOG
 [2025.04.16-20.59.19:324][238]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.069ms to complete.
 [2025.04.16-20.59.20:137][240]LogSlate: External Image Picker: DecompressImage failed
+<<<<<<< Updated upstream
 [2025.04.16-21.01.48:525][352]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
 [2025.04.16-21.01.49:948][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
 [2025.04.16-21.01.49:984][352]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
@@ -1477,3 +1478,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.16-21.14.26:347][882]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.04.16-21.14.26:406][882]LogExit: Exiting.
 [2025.04.16-21.14.26:430][882]Log file closed, 04/16/25 17:14:26
+=======
+>>>>>>> Stashed changes
