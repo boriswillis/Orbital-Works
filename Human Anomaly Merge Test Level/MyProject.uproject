@@ -79,11 +79,5 @@
 			"Name": "SpeedTreeImporter",
 			"Enabled": false
 		}
-	],
-	"TargetPlatforms": [
-		"Linux",
-		"LinuxArm64",
-		"Mac",
-		"Windows"
 	]
 }
