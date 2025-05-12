@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\orbital-works\\human anomaly merge test level\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\myproject\\module.myproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\orbital-works\\human anomaly merge test level\\intermediate\\build\\win64\\x64\\myproject\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\orbital-works\\human anomaly merge test level\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\myproject\\definitions.myproject.h",
+            "d:\\orbital-works\\human anomaly merge test level\\intermediate\\source\\myproject.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

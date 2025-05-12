@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Orbital-Works\\Human Anomaly Merge Test Level\\Intermediate\\Source\\MyProject.Build.cs",
+		"D:\\Orbital-Works\\Human Anomaly Merge Test Level\\Intermediate\\Source\\MyProject.Target.cs",
+		"D:\\Orbital-Works\\Human Anomaly Merge Test Level\\Intermediate\\Source\\MyProjectClient.Target.cs",
+		"D:\\Orbital-Works\\Human Anomaly Merge Test Level\\Intermediate\\Source\\MyProjectEditor.Target.cs",
+		"D:\\Orbital-Works\\Human Anomaly Merge Test Level\\Intermediate\\Source\\MyProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

@@ -1,0 +1,804 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "DAE70302EC4B7A60528398D33C5F2BBACF54ED26",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "7C0F9602120DC6C21BCCBA8F52A1B96C7C661FF0",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Fire_C"
+			]
+		},
+		{
+			"ShaderMapHash": "8B746B05EC42EC15F39BB6F528F4D6C66D34A8C8",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "9BE1D709D26204CC76E0A819FEF68326CE7A038B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D0688F0D32DEDBC1BC75E19154E46750EB9D548A",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "C856FB0D543AE79BFBF3DB6CC7C7E24B2844410A",
+			"Assets": [
+				"/Game/Fab/Archviz____Kingsview_Corner_Sofa/FURNITURE_084_MAT",
+				"/Game/Fab/Crowbar/Crowbar1",
+				"/Game/Fab/Display_Terminal/Material",
+				"/Game/Fab/Document_File_Folder/A4_Page1Shape",
+				"/Game/Fab/Document_File_Folder/A4_Page2Shape",
+				"/Game/Fab/Document_File_Folder/A4_Page3Shape",
+				"/Game/Fab/Document_File_Folder/A4_Paper_StackShape",
+				"/Game/Fab/Document_File_Folder/Folder_1Shape",
+				"/Game/Fab/Modular_Ventilation_and_Pipes/vent",
+				"/Game/Fab/Sci-fi_metallic_table/Material_004",
+				"/Game/Fab/Shelves_Stand/lambert1",
+				"/Game/Fab/Vermis_Malum_-_Elevator_Button_Panel/Elevator_Button_Metal",
+				"/Game/Fab/Vermis_Malum_-_Elevator_Button_Panel/Elevator_Buttons",
+				"/Game/Fab/Vermis_Malum_-_Elevator_Button_Panel/Elevator_Panel_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "24974010250EE7CFCC40933156FA4729C8332B8B",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "E3F642125A067F547D973ADD81F9AEF426F4449F",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialKnob"
+			]
+		},
+		{
+			"ShaderMapHash": "6D4CD412C7F12CEB0C0D9338AF766C2E71C13EDC",
+			"Assets": [
+				"/Game/Fab/Arrow/Material_002",
+				"/Game/Fab/Display_Terminal/Material_013",
+				"/Game/Fab/Sci-fi_Tablet/Handle",
+				"/Game/Fab/Sci-fi_Tablet/Tablet_white"
+			]
+		},
+		{
+			"ShaderMapHash": "ABBF0013827FE5E160214C101AF64ED6D796B354",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "54D71517F1C018C8A83D0A4115261C390AAF12C8",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9CDADF17E59F837132097FE43CFB96A5F3DA0355",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "3878161EA4485439A1ACC2C6E1C9B338AB53D7F7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "916C5C1F112A8BC021B38D5FCB559130E3924FA9",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E2DA3020BCFB583D215731D5EF33A42A7C39DB08",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "6171A020D312DFB91FD98C90F1EF992D5866D568",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F2EB8722FC5A5221EC79A5B85BFC4ECC4D403114",
+			"Assets": [
+				"/Game/Fab/Desk_Lamp/Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "646D7C24A04CED1EDFE90950A2F6607E8984052D",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR"
+			]
+		},
+		{
+			"ShaderMapHash": "7E689527BB5694AF35E8F4FAB32FA8C4A0C7F004",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A217C827FD8079F81027C480C20E27DCB77D9093",
+			"Assets": [
+				"/Game/AdvancedGlassPack/Materials/01_Clean/M_Glass_CleanMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "8CCBFF33AAE279F8D44814D0B8B40D37D4CC9B36",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Spark_A"
+			]
+		},
+		{
+			"ShaderMapHash": "38F983343823D9DA588D44FF74B38D7F9866124A",
+			"Assets": [
+				"/Game/Lighting/M_BlueLedLight"
+			]
+		},
+		{
+			"ShaderMapHash": "D9EF9F34031472DA35B9FABE051BA223A9F228D5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "9055BF34B5B23E15C01F0468B50473D0941DECE9",
+			"Assets": [
+				"/Game/FPMovement/Assets/Door/Materials/Standalone/M_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "34A9CC34D0817CF7A6551ABC84F97DDA7C20C8B2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "34081B3595792A4121B61EC1224890964BC2ED1C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9F2C053A64D5395B2AD3D7CA07CC250E6C1E403F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "9E79CD3DA3DB8AFB7F599FA5CE689844A3A190C4",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0F01C3EFBB42F44BB7F8BA467707F278F25FB0D",
+			"Assets": [
+				"/Game/Fab/Double_Metal_Shelving_Unit/Metal21-basecolor"
+			]
+		},
+		{
+			"ShaderMapHash": "C993463F4EBAED89FDD4BF0FB888BF7434019EEE",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9AACCD42FD28B73FFAD733ED7CACCED568E53D1E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "90740144E0D3F7343D7B80FE8B5D8F2A0EA4BB59",
+			"Assets": [
+				"/Game/M5VFXVOL2/Materials/Master/Sequence_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "57D9704421914F01E7EC25E1FA8241A7E47B382A",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "AE361D4C1ECF114779A9784DE901721DA9F3E458",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "E5A7A24CC1C38902BCA914ECEB12F2774BAFBC42",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_WaterDrop_A"
+			]
+		},
+		{
+			"ShaderMapHash": "C89AC64C8ED4C183940BE0E6215B71FEF71408AB",
+			"Assets": [
+				"/Game/Fab/Bed/aiStandardSurface3",
+				"/Game/Fab/Bed/aiStandardSurface4",
+				"/Game/Fab/Bed/aiStandardSurface5",
+				"/Game/Fab/Bed/aiStandardSurface6",
+				"/Game/Fab/Cabinet_Storage/metal",
+				"/Game/Fab/Futuristic_High_Tech_Chair____Free_Model/MAT_HighTechChair_base",
+				"/Game/Fab/Retrofuturistic_Computer/Computer_midtech"
+			]
+		},
+		{
+			"ShaderMapHash": "0F85AC4FDAB44DA20E54A4F9501B8B9E89F50CC5",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3335EF50D3D9460AAB5D2D01CDF062DF81024F01",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "DEBB31517A42A33ED638A0A889CDCA06D1A6AFB0",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "2B48AF52BCA0AF2F1B74DD1F058FE1F375C62C0A",
+			"Assets": [
+				"/Game/Fab/Vermis_Malum_-_Elevator_Button_Panel/Elevator_Button_BG"
+			]
+		},
+		{
+			"ShaderMapHash": "11754A5426ADF795B92AF6A4E7376F71D9F6BDA2",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "79D0A054C2452B8B978BAE1D7FD1F48C1297E452",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D959DC5461D2E28358E291B1E757EC0CAE2E1C75",
+			"Assets": [
+				"/InterchangeAssets/Materials/PhongSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2F066C567E182B147360D6C4384B0E3D31B52247",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "A11B76579C744A6BDD45E032BA2548B2C8EB6E02",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1D8CAD5A53F29E576D0E95B6AA26B83539D2F627",
+			"Assets": [
+				"/Game/FPMovement/Player/Widgets/Materials/Flashlightpattern_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BF6FB95BED278BC7041B4D73DC375FDEEA18B1B6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "0232115D06C45A549313E2EF2E3B0497117DAE5C",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A257BA61F7AE8A3F72DCC39F07479DAB9FA125C6",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "39381362E9B949261D21B5F53F950419EDD532CA",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "FC9F3C6664C99D2E15493E0751B650A86628EB80",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A6DA32696C6D49BB6FADC4685C95908F9D91BA8A",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "10BF53696F2771CE7123B9C5E4B59F610EE98CED",
+			"Assets": [
+				"/Game/M5VFXVOL2/Materials/Master/Distortion_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D926566979F8A660827B0923771A68B945B11A30",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "790A2872D96D187AC30CCDB2C6A048C91E741D3D",
+			"Assets": [
+				"/Game/Fab/Fire_Extinguisher/material"
+			]
+		},
+		{
+			"ShaderMapHash": "1210F87345EFDB07D5A76DC99C103AE2C32374D7",
+			"Assets": [
+				"/Game/Fab/Cabinet_Storage/glass"
+			]
+		},
+		{
+			"ShaderMapHash": "15174D74B798DA02B7157BE4D7589277D3185C39",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "05812975C1EC7C05C65A831DF915C7CEF56FE334",
+			"Assets": [
+				"/Game/Fab/Vermis_Malum_-_Elevator_Button_Panel/Screen_Display"
+			]
+		},
+		{
+			"ShaderMapHash": "75E8E575FD056F3F944CB907600FE178E800B5D6",
+			"Assets": [
+				"/Game/M5VFXVOL2/Materials/Master/Smoke1_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6F9E84776335304865C6C71E576BAB828C93D32A",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EAAC3D7A1A555FC61CD8F38D25604ABC96CF8EB5",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin",
+				"/Game/FPMovement/Demo/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/FPMovement/Demo/FirstPersonArms/Character/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "82618B7B1A4F661BB746654CBDE362B1A200C8C1",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "6A7F3B7F22687E448C87F09F75FC711BFCF4217B",
+			"Assets": [
+				"/Game/FPMovement/Assets/Door/Materials/Standalone/M_Substance"
+			]
+		},
+		{
+			"ShaderMapHash": "3AF4947FFC83CC99827C7F67E7D8A0FE4683AE08",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B13B068039EF4938F35E551E9025BCB3A1D9CE66",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "69EBA981DA0D9682CE18842B2A79B93135F67E83",
+			"Assets": [
+				"/Game/Moon/moon_texture_5400x2700_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "00CCF6815255F7B241D9563F76E0BEC4A1B091A2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C289548211AED7E844F5FE7070BC3B11CA1A995F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "27B32A86C56D9BC65A485A80B83B78843D26A5C9",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "95E9F486E4753D40A78FAF61E2FF86C40A14E7CE",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5EB9808DE834BFA51BE1E30BC8B14825B6D01CF7",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_A"
+			]
+		},
+		{
+			"ShaderMapHash": "B9255B9272CB5ABBD0E42E2A61B958FCEFC13007",
+			"Assets": [
+				"/Game/Fab/Sci-fi_Tablet/Glass_backside"
+			]
+		},
+		{
+			"ShaderMapHash": "D761A29650185FC3DD14DBB457C9A7DC5028C1F3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "70BE1B97F1045E0BC13E2B5CEA9FFFAFCEFFB096",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "58CFF4A04ACE9906FD09961CAF215A42B376248A",
+			"Assets": [
+				"/Game/FPMovement/Assets/Flashlight/Material/M_Flashlight"
+			]
+		},
+		{
+			"ShaderMapHash": "1678B2A16EF4703A57CDA7630C66C76015F5C573",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Spark"
+			]
+		},
+		{
+			"ShaderMapHash": "7D2E32A2F42A36DE12F8E5E6CB4699ED91518904",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Slash"
+			]
+		},
+		{
+			"ShaderMapHash": "3C6447A69EFFA4AEC172B48B3B6994710D7F9A68",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "B9E685A68A1E204AA2F5D8E0DD4A3ECE13C5C56C",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FEFE8CA6BCCD4B8653473E3A5CB9A5F850C0595C",
+			"Assets": [
+				"/Game/LN3D_Modular_CatWalk/LN3D_Modular_CatWalk_Free/Materials/LN3D_Modular_CatWalk_HDRP_Orange_Wear"
+			]
+		},
+		{
+			"ShaderMapHash": "A0132FA9B7888625322CD8132BF5B8741D61BE40",
+			"Assets": [
+				"/Game/Fab/SciFi_Desk/T_desk"
+			]
+		},
+		{
+			"ShaderMapHash": "D5BA6DAA70625DE0B173C75E990551535AE8B1F5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "0E50C1AB6A71E360AF916D3BE4E63B62C3F4CDDF",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9220ADAC5EBCC7452DB04881C15F4DF58A25927D",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "30F49BAF5733DB34FC3E029E2BBBB4E362A61346",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "365BB3B0A645E600BACAF02AE7B03F936F78C78D",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C70D09B126F304BFAAC62D1EE8D763DF9265DA81",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E4DFABB3AF9FCA2EBFF9AAD2388DC48B2ECA856E",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "72547CB4CC17811D1A221207CA75222677EC1EAF",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
+				"/Game/FPMovement/Demo/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "86120AB5A0915FBD72A41BFB8BD3710FAD7C72D4",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "1C61BBB62A8550B0DB34BC25ECA9F756931373B4",
+			"Assets": [
+				"/Game/Fab/Double_Metal_Shelving_Unit/Tape"
+			]
+		},
+		{
+			"ShaderMapHash": "6EFB8AB7655E4A6171E799EE30BD1CACD0F1E4D4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F94D9BB7E604F07599BB20E968CBD0B20C744FCC",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_C"
+			]
+		},
+		{
+			"ShaderMapHash": "71D7FDB868649D25E1A4037CDB711C5EBC01314F",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "97692DBBE0E5DB32494F832D039EFD366270569E",
+			"Assets": [
+				"/Game/FPMovement/Assets/Note/M_Paper"
+			]
+		},
+		{
+			"ShaderMapHash": "6A35CABBA849DE189E57EDA310448EC124D4EB8D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B21F09BEC571449B1783DE0E7750D59B40F8D692",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "F4850FBEB171CE6FA95168CC153B1C2288D4985E",
+			"Assets": [
+				"/Game/Fab/Sci-fi_Tablet/Display"
+			]
+		},
+		{
+			"ShaderMapHash": "D7CC3BC0790FE887512427AE40D1B1417B9EA9B5",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "60D466C199C5B8D4278263977AD377FF93C4905C",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "DC0DB0C11CD24F488CBDAEA108C9BD80B222527C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "D5FD71C37CBAAA7655EAD1F67C256D9F2E14F29A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "31A1D2C4EED320C5D5E053ACACF9AA0306AB7AC1",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B37DE2C4391BB215B41AE352732E16C1C74EF7E5",
+			"Assets": [
+				"/Game/SciFi_Materials_10/Material/M_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "D457C5C631A20D19936BC0ACFD13D97DAC4F17DC",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialMeter"
+			]
+		},
+		{
+			"ShaderMapHash": "2A63F6C6CD4EF6474F977C37B836BA66E358F192",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "895E1DCF8773091CA0A5B3E223AE2E99746D2DDC",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "2BF315DABB484C8CD6C6C4ADDBCAB6BB90F0A598",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Bubble_B"
+			]
+		},
+		{
+			"ShaderMapHash": "AAE2DCDE6024066DE741C2620780D73E804DE5B4",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Glow_C"
+			]
+		},
+		{
+			"ShaderMapHash": "D7B874E4DA453AEC18CA283DEF15DC64D4C3DE9E",
+			"Assets": [
+				"/Game/Fab/Double_Metal_Shelving_Unit/Color_M08",
+				"/Game/Fab/Double_Metal_Shelving_Unit/edge_color000255",
+				"/Game/Fab/Double_Metal_Shelving_Unit/edge_color255153204255",
+				"/Game/Fab/Double_Metal_Shelving_Unit/material"
+			]
+		},
+		{
+			"ShaderMapHash": "81FC32E76C5E335ED4859B099419BEEC3EAD8969",
+			"Assets": [
+				"/Game/M5VFXVOL2/Materials/Master/Basic_Emi_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "134443E99E4225FBDA3206C8AEA70CA4590B02BA",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "892FC3E9D6DD4D8349E617582686AC50EC522859",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "948C73EA032F801C139317C8CD408BD2E92B0882",
+			"Assets": [
+				"/Game/Fab/Double_Metal_Shelving_Unit/cardboard"
+			]
+		},
+		{
+			"ShaderMapHash": "BBE362EB6D0AA5121DE3DFCF57A6ECFCF91B12B1",
+			"Assets": [
+				"/Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Splat_A"
+			]
+		},
+		{
+			"ShaderMapHash": "6B5B2DECE1E9B817E4FC67D2E1F454F0BDE88A50",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "726A88EF2B1AA3CA465C213B19C00B47D52101D2",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "1F858FF0EFD0F7380ECC54EC4C78CF11D30F9385",
+			"Assets": [
+				"/Game/Fab/Sci-fi_Tablet/display_tablet_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "A7C967F36A367DD41A54F6FCC5FD72B4272CD589",
+			"Assets": [
+				"/Game/Fab/Display_Terminal/Material_011"
+			]
+		},
+		{
+			"ShaderMapHash": "0832FFF6BCD2C53502C668EE2EA81CF786E3734E",
+			"Assets": [
+				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
+			]
+		},
+		{
+			"ShaderMapHash": "05C1B8F998086E49835C179E927C767E8BF7D626",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "585977FB1281A425426D62C2987EB6FA2B214E4D",
+			"Assets": [
+				"/Game/FPMovement/Demo/Footstep_Material/M_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "FBF7ABFBBB39E89B2E9F6D07C4CC0C82842CC4E3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E4CB38FD76796D926D3F71D31789AF9D8EA1763F",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "4E44E8FFAE389021FDA25E6C48C8275C104D8787",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EBA9FAFF75642717AAF22DB518C4F716C178F9B7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		}
+	]
+}
